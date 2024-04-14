@@ -15,7 +15,7 @@ https://github.com/nikstar/FromMatchedGeometry/assets/1885828/0d384227-3ccd-44ea
 
 **Recommended**
 
-Copy [FromMatchedGeomertry.swift](Sources/FromMatchedGeometry/FromMatchedGeomertry.swift) to your project.
+Copy [FromMatchedGeometry.swift](Sources/FromMatchedGeometry/FromMatchedGeometry.swift) to your project.
 
 **SPM**
 
@@ -54,4 +54,4 @@ struct ContentView: View {
 
 ## Full example
 
-Full example from demo video is available in [FromMatchedGeomertry.swift](Sources/FromMatchedGeometry/FromMatchedGeomertry.swift) as a `#Preview`.
+Full example from demo video is available in [FromMatchedGeometry.swift](Sources/FromMatchedGeometry/FromMatchedGeometry.swift) as a `#Preview`.
