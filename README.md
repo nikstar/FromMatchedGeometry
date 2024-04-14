@@ -5,11 +5,17 @@ SwiftUI transition using `matchedGeometryEffect`.
 
 At the start of transition (when the view is inserted in the view hierarchy), the view will be placed matching geometry of the source view with matching **id** and **namespace**. Then it will move to it's normal place, no longer matching source view. Reverse when it is removed from the view hierarchy.
 
+
+
+https://github.com/nikstar/FromMatchedGeometry/assets/1885828/0d384227-3ccd-44ea-814a-b1041b78bea3
+
+
+
 ## Install
 
 **Recommended**
 
-Copy `FromMatchedGeomertry.swift` to your project.
+Copy [FromMatchedGeomertry.swift](Sources/FromMatchedGeometry/FromMatchedGeomertry.swift) to your project.
 
 **SPM**
 
@@ -48,4 +54,4 @@ struct ContentView: View {
 
 ## Full example
 
-Full example from demo video is available in FromMatchedGeomertry.swift as a `#Preview`.
+Full example from demo video is available in [FromMatchedGeomertry.swift](Sources/FromMatchedGeometry/FromMatchedGeomertry.swift) as a `#Preview`.
